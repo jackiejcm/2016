@@ -1,0 +1,226 @@
+{
+    "entry_tools": {
+        "categoryArray": [
+            {
+                "background": "",
+                "columnNo": 1,
+                "icon": "",
+                "lineNo": 1,
+                "name": "审批",
+                "typeName": "审批记录",
+                "typeTag": "app_hrd_spjl",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 2,
+                "icon": "",
+                "lineNo": 1,
+                "name": "签到",
+                "typeName": "考勤记录",
+                "typeTag": "app_hrd_cqjl",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 1,
+                "icon": "",
+                "lineNo": 2,
+                "name": "企业消息",
+                "typeName": "企业公告",
+                "typeTag": "app_hrd_qyxx",
+                "url": ""
+            }
+        ],
+        "categoryName": "工具",
+        "categoryTag": "entry_tools"
+    },
+    "entry_home": {
+        "categoryArray": [
+            {
+                "background": "",
+                "columnNo": 1,
+                "icon": "",
+                "lineNo": 1,
+                "name": "审批",
+                "typeName": "审核申请",
+                "typeTag": "app_hrd_shsq",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 1,
+                "icon": "",
+                "lineNo": 2,
+                "name": "移动食堂",
+                "typeName": "其他申请",
+                "typeTag": "app_hrd_qtsq",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 2,
+                "icon": "",
+                "lineNo": 2,
+                "name": "签到",
+                "typeName": "考勤记录",
+                "typeTag": "app_hrd_cqjl",
+                "url": ""
+            }
+        ],
+        "categoryName": "首页",
+        "categoryTag": "entry_home"
+    },
+    "entry_ad": {
+        "categoryArray": [
+            {
+                "background": "",
+                "columnNo": 1,
+                "icon": "",
+                "lineNo": 1,
+                "name": "企业消息",
+                "typeName": "标签",
+                "typeTag": "app_label",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 1,
+                "icon": "",
+                "lineNo": 2,
+                "name": "通讯录",
+                "typeName": "通讯录",
+                "typeTag": "app_hrd_txl",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 1,
+                "icon": "",
+                "lineNo": 3,
+                "name": "外卖",
+                "typeName": "签到签退",
+                "typeTag": "app_hrd_qdqt",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 2,
+                "icon": "",
+                "lineNo": 3,
+                "name": "丽华外卖",
+                "typeName": "签到签退",
+                "typeTag": "app_hrd_qdqt",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 4,
+                "icon": "",
+                "lineNo": 3,
+                "name": "神州专车",
+                "typeName": "审批记录",
+                "typeTag": "app_hrd_spjl",
+                "url": ""
+            }
+        ],
+        "categoryName": "广告",
+        "categoryTag": "entry_ad"
+    },
+    "entry_life": {
+        "categoryArray": [
+            {
+                "background": "",
+                "columnNo": 1,
+                "icon": "",
+                "lineNo": 1,
+                "name": "美食",
+                "typeName": "标签",
+                "typeTag": "app_label",
+                "url": "http://www.baidu.com"
+            },
+            {
+                "background": "",
+                "columnNo": 1,
+                "icon": "",
+                "lineNo": 2,
+                "name": "早餐",
+                "typeName": "签到签退",
+                "typeTag": "app_hrd_qdqt",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 2,
+                "icon": "",
+                "lineNo": 2,
+                "name": "午餐",
+                "typeName": "签到签退",
+                "typeTag": "app_hrd_qdqt",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 3,
+                "icon": "",
+                "lineNo": 2,
+                "name": "滴滴专车",
+                "typeName": "签到签退",
+                "typeTag": "app_hrd_qdqt",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 1,
+                "icon": "",
+                "lineNo": 3,
+                "name": "打车",
+                "typeName": "标签",
+                "typeTag": "app_label",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 1,
+                "icon": "",
+                "lineNo": 4,
+                "name": "焦耳外卖",
+                "typeName": "差旅申请",
+                "typeTag": "app_hrd_clsq",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 2,
+                "icon": "",
+                "lineNo": 4,
+                "name": "e代驾",
+                "typeName": "签到签退",
+                "typeTag": "app_hrd_qdqt",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 3,
+                "icon": "",
+                "lineNo": 4,
+                "name": "回家吃饭",
+                "typeName": "专属司机",
+                "typeTag": "app_hrd_txl",
+                "url": ""
+            },
+            {
+                "background": "",
+                "columnNo": 4,
+                "icon": "",
+                "lineNo": 4,
+                "name": "优良生活",
+                "typeName": "广告url",
+                "typeTag": "h5_url_ad",
+                "url": ""
+            }
+        ],
+        "categoryName": "生活服务",
+        "categoryTag": "entry_life"
+    }
+}
